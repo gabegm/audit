@@ -1,0 +1,10 @@
+/Users/gabegm/Projects/Audit/Audit/bin/Debug/netcoreapp1.1/Audit.deps.json
+/Users/gabegm/Projects/Audit/Audit/bin/Debug/netcoreapp1.1/Audit.runtimeconfig.json
+/Users/gabegm/Projects/Audit/Audit/bin/Debug/netcoreapp1.1/Audit.runtimeconfig.dev.json
+/Users/gabegm/Projects/Audit/Audit/bin/Debug/netcoreapp1.1/Audit.dll
+/Users/gabegm/Projects/Audit/Audit/bin/Debug/netcoreapp1.1/Audit.pdb
+/Users/gabegm/Projects/Audit/Audit/obj/Debug/netcoreapp1.1/Audit.csprojResolveAssemblyReference.cache
+/Users/gabegm/Projects/Audit/Audit/obj/Debug/netcoreapp1.1/Audit.csproj.CoreCompileInputs.cache
+/Users/gabegm/Projects/Audit/Audit/obj/Debug/netcoreapp1.1/Audit.AssemblyInfo.cs
+/Users/gabegm/Projects/Audit/Audit/obj/Debug/netcoreapp1.1/Audit.dll
+/Users/gabegm/Projects/Audit/Audit/obj/Debug/netcoreapp1.1/Audit.pdb

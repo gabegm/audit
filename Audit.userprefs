@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0D0CABB2-6359-4943-9742-9656D5269EA1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Audit/Program.cs">
+    <Files>
+      <File FileName="Audit/Program.cs" Line="35" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Audit PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
